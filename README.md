@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThomasHessB and i'm from Brazil! :) and I speak English and Portuguese.
+- 👋 Hi, I’m @ThomasHessB and i'm from Brazil! :) I speak English and Portuguese.
 
 - 👀 I’m interested in Learning Front End Dev/JavaScript/Python
 - 🌱 I’m currently learning Front End Dev/JavaScript
